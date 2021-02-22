@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**giulianomap/giulianomap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Giuliano Peixoto**, desenvolvedor fullstack de BH/MG, apaixonado por música :musical_note: e tecnologia, com foco, em especial, no back-end. Possuo conhecimento nas linguagens e tecnologias abaixo (ansioso por aprender muito mais :rocket:):
 
-Here are some ideas to get you started:
+* HTML 
+* CSS
+* JS (ES6)
+* React + Hooks e ContextAPI
+* Redux
+* SQL (MySQL) 
+* NoSQL (MongoDB)
+* Node.js + Express
+* Jest + React Testing Library
+* Heroku 
+* PM2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ainda estou familiarizado com as seguintes ferramentas:
+
+* **Github** - versionamento;
+* **ESLint** - padronização e qualidade do código;
+* **Code Climate e TravisCI**.
+
+### 
+
+### Fale comigo:
+
+* [LinkedIn](https://www.linkedin.com/in/giuliano-peixoto/)
+* [E-mail](mailto:giulianopeixoto@gail.com)
+
+Valeu!
+
