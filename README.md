@@ -1,3 +1,4 @@
+## Olá!
 
 Sou **Giuliano Peixoto**, desenvolvedor fullstack de BH/MG, apaixonado por música :musical_note: e tecnologia, com foco, em especial, no back-end. Possuo conhecimento nas linguagens e tecnologias abaixo (ansioso por aprender muito mais :rocket:):
 
