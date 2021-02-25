@@ -19,7 +19,7 @@ Ainda estou bem familiarizado com:
 
 ### Fale comigo:
 
-* <a href="https://www.linkedin.com/in/juliette-beaudet/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
+* <a href="https://www.linkedin.com/in/giuliano-peixoto/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
 
 Valeu!
 
