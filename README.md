@@ -10,9 +10,9 @@ Ansioso por aprender muito mais :rocket:):
 
 Ainda estou bem familiarizado com:
 
-* **Jest + React Testing Library;
-* **Heroku;
-* **PM2;
+* **Jest + React Testing Library**;
+* **Heroku**;
+* **PM2**;
 * **Github** - versionamento;
 * **ESLint** - padronização e qualidade do código;
 * **Code Climate e TravisCI**.
